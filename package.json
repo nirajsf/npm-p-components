@@ -1,7 +1,7 @@
 {
   "name": "npm-p-components",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
